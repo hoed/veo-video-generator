@@ -1,0 +1,5 @@
+{
+  "name": "Veo Video Generator",
+  "description": "Generate videos using Google's Veo 3.1 model with text prompts, reference images, and customizable aspect ratios and resolutions.",
+  "requestFramePermissions": []
+}
